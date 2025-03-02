@@ -1,0 +1,3 @@
+[submodule "thirdpart/CTranslate2"]
+	path = thirdpart/CTranslate2
+	url = git@github.com:hewenyu/CTranslate2.git
